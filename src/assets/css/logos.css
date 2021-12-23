@@ -1,0 +1,96 @@
+@media only screen and (max-width: 1232px) {
+  .DescTitleHome {
+    font-size: 1.3em;
+  }
+}
+@media only screen and (max-width: 1069px) {
+  .DescTitleHome {
+    font-size: 1.1em;
+  }
+}
+@media only screen and (max-width: 909px) {
+  .DescTitleHome {
+    font-size: 0.9em;
+  }
+}
+.icon:hover {
+  color: white;
+  background-color: #001b41;
+}
+.dispo {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+.dispo::before {
+  content: "Nouveau";
+  background: deepskyblue;
+  position: absolute;
+  width: 150%;
+  height: 40px;
+  transform: rotate(-45deg) translateY(-20px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 1.2vw;
+  color: #fff;
+  letter-spacing: 0.2em;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+.dispo::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 10px;
+  height: 10px;
+  background: white;
+  z-index: -1;
+  box-shadow: 140px -140px gray;
+}
+
+/*Pagination Style*/
+.paginationBttns {
+  width: 100%;
+  height: 20px;
+  padding: 2%;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 14px;
+  padding-left: 14px;
+  margin: 3px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  border-radius: 50%;
+  color: #1aa5e1;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  color: white;
+  background-color: #1aa5e1;
+}
+
+.paginationActive a {
+  color: white;
+  background-color: #1aa5e1;
+}
+
+.paginationDisabled a {
+  color: #1aa5e1;
+  background-color: transparent;
+}
