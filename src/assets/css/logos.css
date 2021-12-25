@@ -94,3 +94,40 @@
   color: #1aa5e1;
   background-color: transparent;
 }
+/*SearchFeild */
+.dataResult {
+  margin-top: 5px;
+  width: 100%;
+  height: auto;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.dataResult::-webkit-scrollbar {
+  display: none;
+}
+
+.dataResult .dataItem {
+  width: 100%;
+  height: auto;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  color: #1aa5e1;
+}
+.dataItem h5 {
+  margin-left: 15px;
+  margin-top: 33px;
+  font-style: italic;
+}
+
+.dataItem:hover {
+  background-color: #1aa5e1;
+  color: white;
+}
+
+#clearBtn {
+  cursor: pointer;
+}

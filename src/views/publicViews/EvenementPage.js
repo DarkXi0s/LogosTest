@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import JsonData from "data/EVENT_DATA.json";
 import ReactPaginate from "react-paginate";
-
+//import { SortBy, Reverse } from "react-lodash";
 // reactstrap components
 import { Container, Row, Col } from "reactstrap";
 import "assets/css/logosStyle.css";
 import Images from "../index-sectionsLogos/Images";
 
 //Event Component
-import EventComp from "../SectionEvent/EventComponent";
+import EventComp from "../index-sectionsLogos/EventComponent";
 // core components
 import ExamplesNavbar from "componentsLogos/Navbars/PublicationNavbar";
 import LandingPageHeader from "componentsLogos/Headers/LandingPageHeader.js";
@@ -45,7 +45,7 @@ function LandingPage() {
             Img={require(`assets/img/${user.posterURL}`).default}
             title={user.title}
             description={user.description}
-            link={user.url}
+            link={user.link}
             date={user.date}
             lieu={user.lieu}
           />
@@ -67,7 +67,7 @@ function LandingPage() {
           <TitlePage title={"ÉVÉNEMENTS "} />
         </div>
         <div className="section section-team text-center">
-          <SearchField />
+          <SearchField placeholder="Vous Cherchez?" data={JsonData} />
           <RadioButton />
           <Container>
             <Row style={{ padding: "1%" }}>{displayUsers}</Row>

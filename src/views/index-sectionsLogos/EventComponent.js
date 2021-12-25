@@ -77,11 +77,11 @@ const EventComponent = (props) => {
           >
             <div style={{ display: "flex" }}>
               <FaClock color="#1aa5e1" size="14px" />
-              <h6> {props.date}</h6>
+              <h6 style={{ marginLeft: "5px" }}> {props.date}</h6>
             </div>
             <div style={{ display: "flex" }}>
               <FaMapMarkerAlt color="#1aa5e1" size="14px" />
-              <h6> {props.lieu} </h6>
+              <h6 style={{ marginLeft: "5px" }}> {props.lieu} </h6>
             </div>
           </div>
         </div>
