@@ -62,7 +62,7 @@ const EventComponent = (props) => {
             block
             className="btn-round"
             color="info"
-            to={props.link}
+            to={{ pathname: props.link, state: { ID: props.title } }}
             tag={Link}
             size="lg"
           >

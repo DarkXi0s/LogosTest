@@ -4,7 +4,7 @@
     "posterURL": "E10.jpeg",
     "title": "Journée De La Traduction",
     "description": "Traduire c'est trahir ? Ou au contraire c'est faire passer et partager ? Est-ce encore de mise en ces temps ? Toutes ces questions et bien d'autres ce samedi 25 décembre au centre des étoiles de la médina à Fès. Des traducteurs montrent leurs oeuvres et expliquent ce procédé qui date depuis des siècles... Alors ? Prêts à passer d'une langue à une autre sans se mêler les idées ?",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "25-12-2021",
     "lieu": "Fes"
   },
@@ -13,7 +13,7 @@
     "posterURL": "E1.jpg",
     "title": "L'écriture entre parole et silence ",
     "description": "Les écrivains et les poètes ( comme les musiciens et les hommeS de l’art en général) partagent l’intuition fondatrice que le silence est au cœur de leur création. Le défi paradoxal de la littérature n’est-il pas d’exprimer ce qui ne peut l’être ? Rendez-vous avec lécrivaine et plasticienne maroco-suisse Bouthaïna Azami",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "30-10-2021",
     "lieu": "Fes"
   },
@@ -22,7 +22,7 @@
     "posterURL": "E3.jpg",
     "title": "Agoras au Café : Culture en résilience",
     "description": "La 4ème Agora de ce Cycle autour de la ' Culture en résilience ' avec un intervenant de renom, une grande figure de la diversité culturelle au Maroc et un acteur culturel reconnu au niveau international M. Brahim El Mazned.",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "29-01-2021",
     "lieu": "Rabat"
   },
@@ -31,7 +31,7 @@
     "posterURL": "E4.jpg",
     "title": "Livre du Mois : Douce schizophrénie",
     "description": "Présentation et signature du livre du Pr. Mohamed Bernoussi intitulé Douces Schizophrénies, études sémiotiques de la culture marocaine publié aux éditions MIMESIS PHILOSOPHIE. L’objet de ce livre est de saisir un aspect fondamental de la culture marocaine et arabo-musulmane manifesté principalement par son ambivalence permanente et son oscillation constante  ...",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "18-12-2020",
     "lieu": "Rabat"
   },
@@ -40,7 +40,7 @@
     "posterURL": "E5.jpg",
     "title": "Livre du Mois : Esthétique du film politique ",
     "description": "Depuis ses débuts, le cinéma n’a jamais cessé de se nourrir du fait politique dans sa dimension contestataire et militante. Pour débattre de cette vocation politique du cinéma, le groupe de réflexion LOGOS a eu l’immense plaisir d’accueillir Dr Fouad Souiba, auteur, entre autres, de 'Esthétique du film politique' paru en 2018 chez  MARSAM, lors d’un webinaire pendant lequel l’invité a...",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "26-02-2021",
     "lieu": "En Ligne"
   },
@@ -49,7 +49,7 @@
     "posterURL": "E6.jpg",
     "title": "Agoras au Café :",
     "description": "Les écrivains et les poètes ( comme les musiciens et les hommeS de l’art en général) partagent l’intuition fondatrice que le silence est au cœur de leur création. Le défi paradoxal de la littérature n’est-il pas d’exprimer ce qui ne peut l’être ? Rendez-vous avec lécrivaine et plasticienne maroco-suisse Bouthaïna Azami",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "18-06-2021",
     "lieu": "Rabat"
   },
@@ -58,16 +58,16 @@
     "posterURL": "E7.jpg",
     "title": "Agoras au Café : Cultiver l'espoir - devoir politique et engagement citoyen",
     "description": "Nous avons le plaisir de vous inviter ce Vendredi à notre Agora avec comme pensée : 'Cultiver l'espoir' toujours dans le cadre de notre cycle : Nouveau monde, nouveaux modes : Passion et/ou Raison?  Merci à notre partenaire la Fondation Hiba pour cette fructueuse collaboration et vivement vous recevoir au café la Scène en plein coeur de Rabat.",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "03-12-2021",
     "lieu": "Rabat"
   },
   {
     "id": 8,
     "posterURL": "E8.jpg",
-    "title": "Agoras au Café : ",
+    "title": "Agoras au Café : Passion et déconstruction dans le monde de demain ",
     "description": "Toujours dans la même thématique du nouveau monde et nouveau mode, Logos présente une agora de fin d'année pour un début de changement de mentalité. soyez au rendez-vous !",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "24-12-2021",
     "lieu": "Rabat"
   },
@@ -76,7 +76,7 @@
     "posterURL": "E9.jpg",
     "title": "EVE6",
     "description": "Les écrivains et les poètes ( comme les musiciens et les hommeS de l’art en général) partagent l’intuition fondatrice que le silence est au cœur de leur création. Le défi paradoxal de la littérature n’est-il pas d’exprimer ce qui ne peut l’être ? Rendez-vous avec lécrivaine et plasticienne maroco-suisse Bouthaïna Azami",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "30-10-2021",
     "lieu": "Rabat"
   },
@@ -85,25 +85,25 @@
     "posterURL": "E2.jpg",
     "title": "EVE6",
     "description": "Les écrivains et les poètes ( comme les musiciens et les hommeS de l’art en général) partagent l’intuition fondatrice que le silence est au cœur de leur création. Le défi paradoxal de la littérature n’est-il pas d’exprimer ce qui ne peut l’être ? Rendez-vous avec lécrivaine et plasticienne maroco-suisse Bouthaïna Azami",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "30-10-2021",
     "lieu": "Rabat"
   },
   {
     "id": 11,
     "posterURL": "E11.jpeg",
-    "title": "EVE6",
-    "description": "Les écrivains et les poètes ( comme les musiciens et les hommeS de l’art en général) partagent l’intuition fondatrice que le silence est au cœur de leur création. Le défi paradoxal de la littérature n’est-il pas d’exprimer ce qui ne peut l’être ? Rendez-vous avec lécrivaine et plasticienne maroco-suisse Bouthaïna Azami",
-    "link": "/event-page-one",
-    "date": "10-04-2021",
-    "lieu": "Rabat"
+    "title": "Livre Du Mois : Umberto eco Sémioticien et romancier  ",
+    "description": "Nous revoilà avec le semiticien ayant travaillé toute sa vie sur un autre Semioticien Umberto eco. Une rencontre pour la première fois à Fès en presentiel avec des invités de marque...",
+    "link": "/event",
+    "date": "20-03-2021",
+    "lieu": "Fes"
   },
   {
     "id": 12,
     "posterURL": "E12.jpeg",
     "title": "Livre du Mois : Homo-copiens : Essai sur 'le nouveau  jeune' et  le savoir  ",
     "description": "Professeur KAMAL Abderrahim est l'invité de ce mois avec son livre : Homo-copiens : Essai sur 'le nouveau  jeune' et  le savoir  Modération de Mme. Nabila ELFAHMY , coordinatrice de l'antenne de Fès du LOGOS. Le plagiat consiste à voler les mots de quelqu'un d'autre, mais aussi voler ses idéesEn d'autres termes, même si vous paraphrasez un texte, l'auteur doit quand même être cité...",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "10-04-2021",
     "lieu": "Fes"
   },
@@ -112,7 +112,7 @@
     "posterURL": "E13.jpeg",
     "title": "Présentation Du Livre : L'année de Bacchus",
     "description": "Une rencontre très attendue avec El Mostafa Bouignane, un romancier qu'on ne présente plus !  Son dernier livre, l'année de Bacchus, l'Histoire avec un grand H,  et une histoire à couper le souffle !  Un rendez-vous à ne pas manquer ! Le 29 Mai à 15h à Fès Centre les étoiles",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "29-05-2021",
     "lieu": "Fes"
   },
@@ -121,7 +121,7 @@
     "posterURL": "E14.jpeg",
     "title": "Signature Du Livre : Drôle d’odyssée pour Jazya",
     "description": "Le journalisme, la littérature et le cinéma sont le socle du piédestal sur lequel monte Fouad Souiba  pour nous gaver de culture. Sans perdre de vue le projet ambitieux qu’il porte avec cœur et conviction pour la jeunesse de son pays, l’auteur de 'Drôle d’odyssée pour Jazya' a entrepris hier sa propre odyssée pour aller embaumer la médina de Fès par les senteurs de son art et les effluves... ",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "30-10-2021",
     "lieu": "Rabat"
   },
@@ -130,7 +130,7 @@
     "posterURL": "E15.jpg",
     "title": "L'Education-Culture à l'ère de la Réflexion sur le NMD",
     "description": "le professeur et écrivain M. Ahmed AASSID, essaiera de décortiquer les éléments de l’éducation et de la culture dans leur liaison inévitable avec « le politique ». Cette réflexion s’inscrit dans le cheminement que Logos a tracé au sens de la création de moments de réflexion par rapport au débat sociétal ouvert sur le nouveau modèle de développement du Maroc. Dans un contexte ...",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "31-01-2020",
     "lieu": "Rabat"
   },
@@ -139,7 +139,7 @@
     "posterURL": "E16.jpg",
     "title": "ADRAR VOICE, un magazine local à dimension internationale",
     "description": "À l'occasion du lancement du numéro 4 du magazine ADRAR VOICE (La voix de la montagne), l’Association Adrar pour le Développement, le Tourisme de Montagne et l'Écotourisme organise en partenariat avec le club Logos le 03/08/2020 à partir de 20h Maroc (21h GMT+2) une visioconférence sous le thème 'ADRAR VOICE, un magazine local à dimension internationale'.Cet événement...",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "03-08-2020",
     "lieu": "EN LIGNE"
   },
@@ -148,7 +148,7 @@
     "posterURL": "E17.jpg",
     "title": "Deux mois après : Questions autour d'un retour à soi",
     "description": "N'hésitez pas de visiter notre site web du LOGOS pour découvrir le 4ème Moment de Réflexion.On vous promet une rencontre inédite et un sujet de pensée autour de soi",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "21-05-2020",
     "lieu": "EN LIGNE"
   },
@@ -157,7 +157,7 @@
     "posterURL": "E18.jpg",
     "title": "AGORA 2 : Le choc des imaginaires",
     "description": "D'un coté nous avons une informatisation du monde, des mutations technologiques du numérique, le développement des industries « créatives », la multiplication des univers virtuels, qui vont accélérer le mouvement d’une industrialisation dite du futur qui est elle-même portée par une utopie. L’industrie a toujours été accompagnée par ses propres industries de l’imaginaire. Et les imaginaires ...",
-    "link": "/event-page-one",
+    "link": "/event",
     "date": "13-06-2019",
     "lieu": "Rabat"
   }

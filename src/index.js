@@ -82,10 +82,7 @@ ReactDOM.render(
           render={(props) => <PublicationSex {...props} />}
         />
 
-        <Route
-          path="/event-page-one"
-          render={(props) => <EventOne {...props} />}
-        />
+        <Route path="/event" render={(props) => <EventOne {...props} />} />
         <Redirect to="/index" />
         <Redirect from="/" to="/index" />
       </Switch>
